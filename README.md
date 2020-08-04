@@ -1,41 +1,47 @@
 # Hello, I'm Jo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-
 I am a software engineer who is passionate about creating software that will help
 
-- 🔭 I’m currently working on:
-- 🌱 I’m currently learning:
+## 🔭 I’m currently working on:
 
-- 👯 I’m looking to collaborate on:
 
-- 🤔 I’m looking for help with:
+## 🌱 I’m currently learning:
 
-- 💬 Ask me about:
+Data Structures and Algorithms
+Game Development 
+
+
+## 👯 I’m looking to collaborate on:
+
+[Find your foundation](https://devpost.com/software/find-your-foundation)
+[Teach Me](https://devpost.com/software/teachme-q6kcbf)
+
+## 🤔 I’m looking for help with:
+
+Machine learning
+
+## 💬 Ask me about:
 
 Software Development
+Software Quality Assurance
 Chatbot Development
 Task Automation
 Community Development
 
 Tools and Technologies
 
-- 😄 Pronouns:
+## :woman: Pronouns:
 Her/She
-- ⚡ Fun fact: ...
+## ⚡ Fun fact:
+
+My first two names have a song 
+
+[Joan](https://youtu.be/9YqecbxSr4A)
+[Awinja](https://youtu.be/4ZkQrcp5yjY)
 
 
-- 📫 How to reach me: 
-ingari61@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/joanne-awinja-ingari/)
-
-[Twitter](https://twitter.com/JoAnne_Ingari)
-
-[Facebook](https://www.facebook.com/joanne.joey.ingari)
-
-## Stacks I work with
+## Tools I interact with on a daily basis
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
@@ -55,5 +61,36 @@ ingari61@gmail.com
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
- 
- ![Joan's stats](https://github-readme-stats.vercel.app/api?username=Awinja-j&show_icons=true)
+<code><img height="50" src="https://www.vectorlogo.zone/logos/messenger/messenger-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apigee/apigee-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/hootsuite/hootsuite-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/angel/angel-ar21.svg"></code>
+
+![Joan's stats](https://github-readme-stats.vercel.app/api?username=Awinja-j&show_icons=true)
+
+# 📫 How to reach me: 
+
+[gmail](ingari61@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/joanne-awinja-ingari/)
+
+[Twitter](https://twitter.com/JoAnne_Ingari)
+
+[Facebook](https://www.facebook.com/joanne.joey.ingari)
