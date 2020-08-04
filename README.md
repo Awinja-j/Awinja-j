@@ -6,11 +6,12 @@ I am a software engineer who is passionate about creating software that will hel
 ## 🔭 I’m currently working on:
 
 
+
+
 ## 🌱 I’m currently learning:
 
-Data Structures and Algorithms
-Game Development 
-
+- Data Structures and Algorithms
+- Game Development 
 
 ## 👯 I’m looking to collaborate on:
 
@@ -19,29 +20,30 @@ Game Development
 
 ## 🤔 I’m looking for help with:
 
-Machine learning
+- Machine learning
+- Data Science
 
 ## 💬 Ask me about:
 
-Software Development
-Software Quality Assurance
-Chatbot Development
-Task Automation
-Community Development
-
-Tools and Technologies
+- Software Development
+- Software Quality Assurance
+- Chatbot Development
+- Task Automation
+- Community Development
+- API Management with APIGEE
 
 ## :woman: Pronouns:
 Her/She
+
 ## ⚡ Fun fact:
 
-My first two names have a song 
+My first two names, have a song 
 
 [Joan](https://youtu.be/9YqecbxSr4A)
 [Awinja](https://youtu.be/4ZkQrcp5yjY)
 
 
-## Tools I interact with on a daily basis
+## Tools and Technologies
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
@@ -82,6 +84,7 @@ My first two names have a song
 <code><img height="50" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angel/angel-ar21.svg"></code>
+
 
 ![Joan's stats](https://github-readme-stats.vercel.app/api?username=Awinja-j&show_icons=true)
 
