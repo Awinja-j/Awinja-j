@@ -1,12 +1,7 @@
 # Hello, I'm Jo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I am a software engineer who is passionate about creating software that will help
-
-## 🔭 I’m currently working on:
-
-
-
+I am a software engineer who is passionate about creating software that will help make the world a better place. 
 
 ## 🌱 I’m currently learning:
 
@@ -39,11 +34,15 @@ Her/She
 
 ## ⚡ Fun fact:
 
-My first two names, have a song 
+My first two names, are also names of songs
 
 - [Joan](https://youtu.be/9YqecbxSr4A)
 - [Awinja](https://youtu.be/4ZkQrcp5yjY)
 
+- My hobbie is hiking!
+
+- My first computer was a [Compaq Presario CDS510](http://oldcomputer.info/pc/compaq510/)
+it had 20mb of RAM and used [Windows 95](https://en.wikipedia.org/wiki/Windows_95)
 
 ## Tools and Technologies
 
