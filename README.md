@@ -15,8 +15,10 @@ I am a software engineer who is passionate about creating software that will hel
 
 ## 👯 I’m looking to collaborate on:
 
-[Find your foundation](https://devpost.com/software/find-your-foundation)
-[Teach Me](https://devpost.com/software/teachme-q6kcbf)
+- [Find your foundation](https://devpost.com/software/find-your-foundation)
+- [Teach Me](https://devpost.com/software/teachme-q6kcbf)
+- Hackathons
+- Open source projects
 
 ## 🤔 I’m looking for help with:
 
@@ -39,8 +41,8 @@ Her/She
 
 My first two names, have a song 
 
-[Joan](https://youtu.be/9YqecbxSr4A)
-[Awinja](https://youtu.be/4ZkQrcp5yjY)
+- [Joan](https://youtu.be/9YqecbxSr4A)
+- [Awinja](https://youtu.be/4ZkQrcp5yjY)
 
 
 ## Tools and Technologies
