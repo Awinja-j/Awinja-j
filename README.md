@@ -7,7 +7,7 @@ Passion about problem solving is what got me into code, being able to come up wi
 
 I enjoy learning as much as I enjoy teaching, I think both are equally fulfilling activities to me, and when I look for a job, continuous learning is a priority.
 
-I spend most of my days coding and contributong to discussions in tech communitites, if I am not doing that, I am out hiking and meeting friends and family.
+I spend most of my days coding and contributing to discussions in tech communitites, if I am not doing that, I am out hiking and meeting friends and family.
 
 ## 🌱 I’m currently learning:
 
